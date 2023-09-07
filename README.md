@@ -1,7 +1,5 @@
 # full-stack-movies
-A follow along of the FreeCodeCamp Full Stack Development with Java Spring Boot, React, and MongoDB Youtube tutorial - [here].
-
-[here]: (https://www.youtube.com/watch?v=5PdEmeopJVQ&t=326s&ab_channel=freeCodeCamp.org)
+A follow along of the FreeCodeCamp Full Stack Development with Java Spring Boot, React, and MongoDB Youtube tutorial - [here](https://www.youtube.com/watch?v=5PdEmeopJVQ).
 
 The backend tutorial uses:
 - JDK17
